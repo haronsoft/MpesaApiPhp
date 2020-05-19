@@ -1,0 +1,15 @@
+{
+  "TransactionType": "Confirmation",
+   "TransID": "LHG31AA5TX",
+  "TransTime": "20170816190243",
+  "TransAmount": "900",
+  "BusinessShortCode": "600610",
+  "BillRefNumber": "account",
+  "InvoiceNumber": "",
+  "OrgAccountBalance": "null",
+  "ThirdPartyTransID": "",
+  "MSISDN": "254708374149",
+  "FirstName": "John",
+  "MiddleName": "",
+  "LastName": "Doe"
+}
